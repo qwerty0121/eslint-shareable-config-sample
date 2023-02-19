@@ -1,0 +1,1 @@
+# eslint-shareable-config-sample
